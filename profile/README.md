@@ -1,4 +1,4 @@
-## 🐍 EDUPYTER
+# 🐍 EDUPYTER
 *Python / Thonny / JupyterLab / Jupyter Notebook ...  for Windows*
 
 **EDUPYTER** is a development environment for teaching and learning **Python**. Components : Python / Thonny / JupyterLab / Jupyter Notebook ...
